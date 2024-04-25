@@ -8,7 +8,7 @@ I'm Usama Sarfaraz, a Full Stack Developer passionate about building innovative 
 
 🎨 On the frontend, I create beautiful user interfaces using HTML, CSS, and JavaScript, often leveraging frameworks like React and Vue.js.
 
-💻 In backend development, I excel in building RESTful APIs and managing databases. My preferred stack includes Node.js, Express, and MongoDB. I'm also proficient in Python frameworks like Django and Flask.
+💻 In backend development, I excel in building RESTful APIs and managing databases. My preferred stack includes Node.js, Express, and MongoDB. I'm also proficient in Python framework Flask.
 
 🐍 Experienced in Python development for tasks ranging from web scraping to machine learning.
 
@@ -22,16 +22,7 @@ I'm Usama Sarfaraz, a Full Stack Developer passionate about building innovative 
 
 Here are some of the technologies I work with:
 
-![HTML](tech_icons/html.png)
-![CSS](tech_icons/css.png)
-![JavaScript](tech_icons/javascript.png)
-![React](tech_icons/react.png)
-![Node.js](tech_icons/nodejs.png)
-![Express](tech_icons/express.png)
-![MongoDB](tech_icons/mongodb.png)
-![Python](tech_icons/python.png)
-![Django](tech_icons/django.png)
-![Flask](tech_icons/flask.png)
+<img src="https://edent.github.io/SuperTinyIcons/images/svg/html5.svg" width="50" title="HTML5"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/css3.svg" width="50" title="CSS3"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/javascript.svg" width="50" title="JavaScript"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/react.svg" width="50" title="React"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/nodejs.svg" width="50" title="Node.js"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/typescript.svg" width="50" title="TypeScript"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/mongodb.svg" width="50" title="MongoDB"> <img src="https://edent.github.io/SuperTinyIcons/images/svg/python.svg" width="50" title="Python">
 
 ## Let's Collaborate!
 
