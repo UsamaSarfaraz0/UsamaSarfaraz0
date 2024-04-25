@@ -1,5 +1,4 @@
-
-###👋 Welcome to my GitHub!
+👋 Welcome to my GitHub!
 
 👨‍💻 Full Stack Developer with a passion for crafting scalable and innovative web solutions.
 
