@@ -18,6 +18,8 @@ I'm Usama Sarfaraz, a Full Stack Developer passionate about building innovative 
 
 📫 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/usama-sarfaraz-278516155/)!
 
+🌐 Explore my projects and contributions on [GitHub](https://github.com/UsamaSarfaraz0).
+
 ## Technologies
 
 Here are some of the technologies I work with:
