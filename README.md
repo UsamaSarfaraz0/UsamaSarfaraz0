@@ -1,14 +1,14 @@
 # Hi there! 👋
 
-I'm Usama Sarfaraz, a Full Stack Developer passionate about building innovative web solutions. Welcome to my GitHub!
+I'm Usama Sarfaraz, a Full Stack Developer with 3+ years of expereience, I passionate about building innovative web solutions. Welcome to my GitHub!
 
 ## About Me
 
 👨‍💻 I specialize in frontend, backend, and Python development, crafting robust applications across the stack.
 
-🎨 On the frontend, I create beautiful user interfaces using HTML, CSS, and JavaScript, often leveraging frameworks like React and Vue.js.
+🎨 On the frontend, I create beautiful user interfaces using HTML, CSS, and JavaScript, often leveraging frameworks like React JS, Next JS and Vue.js.
 
-💻 In backend development, I excel in building RESTful APIs and managing databases. My preferred stack includes Node.js, Express, and MongoDB. I'm also proficient in Python framework Flask.
+💻 In backend development, I excel in building RESTful APIs and managing databases. My preferred stack includes Node.js, Express,MongoDB/SQL and GraphQL. My expertise also includes cloud services such as AWS (Lambda, S3, Amplify, EC2) and Firebase for effective deployment and management. I'm also proficient in Python framework Flask.
 
 🐍 Experienced in Python development for tasks ranging from web scraping to machine learning.
 
