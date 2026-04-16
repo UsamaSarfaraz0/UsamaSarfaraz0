@@ -62,20 +62,6 @@ I'm a **Senior Software Engineer with 4+ years of experience** building and scal
 ![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=flat-square&logo=auth0&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
----
-
-## 🏆 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| **AVC Wise / My Money Matters** | Enterprise FinTech microservices platform for insurance & financial services | Next.js, Federated GraphQL, GCP, Auth0, Stripe, Docker |
-| **Blookr** | Hospitality platform with end-to-end hotel & venue booking management | Next.js, Node.js, GraphQL, MongoDB, AWS ECS, Stripe |
-| **CrossGrove AI** | AI automation platform digitizing manual business workflows via LLMs & OCR | React, FastAPI, LLM, OCR, AWS ECS, S3 |
-| **Fliplet** | Enterprise no-code/low-code app builder for mobile & web | Node.js, JavaScript SDK, REST APIs, AWS |
-| **LinkedIn Profiler** | Automated LinkedIn scraping tool with AI-based candidate scoring | Vue.js, Node.js, PostgreSQL, Selenium, AWS EC2 |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -90,7 +76,7 @@ I'm a **Senior Software Engineer with 4+ years of experience** building and scal
 
 ## 🌍 Let's Connect
 
-I'm actively seeking **remote opportunities in the Gulf region and Europe**. Whether it's a product-focused startup or a large-scale enterprise platform — I love working on hard problems with great teams.
+I'm actively seeking **remote opportunities**. Whether it's a product-focused startup or a large-scale enterprise platform — I love working on hard problems with great teams.
 
 📧 **usamasarfaraz77@gmail.com**
 💼 [LinkedIn](https://www.linkedin.com/in/usama-sarfaraz-278516155/) · [GitHub](https://github.com/UsamaSarfaraz0)
