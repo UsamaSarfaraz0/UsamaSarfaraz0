@@ -3,7 +3,7 @@
 # 👋 Hey, I'm Usama Sarfaraz
 
 ### Senior Full Stack Engineer · MERN · Next.js · Microservices · Cloud
-#### 📍 Lahore, Pakistan &nbsp;|&nbsp; 🌍 Open to Remote (Gulf & Europe)
+#### 📍 Lahore, Pakistan &nbsp;|&nbsp; 🌍 Open to Remote Opportunities
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usama-sarfaraz-278516155/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usamasarfaraz77@gmail.com)
