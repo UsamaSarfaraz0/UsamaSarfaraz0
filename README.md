@@ -11,7 +11,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-usama--sarfaraz-3b82f6?style=for-the-badge&logoColor=white)](https://usama-sarfaraz-portfolio.vercel.app)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usama-sarfaraz-278516155/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usama-s-278516155/)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usamasarfaraz77@gmail.com)
 &nbsp;
